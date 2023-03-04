@@ -1,7 +1,7 @@
 # Automated-Watering-System
 
 
-Introduction
+#Introduction
 
 This project involves creating an automatic plant watering system using MATLAB, Arduino boards, and sensors. The system is designed to monitor and control the moisture of the plant to ensure optimal growth.
 
